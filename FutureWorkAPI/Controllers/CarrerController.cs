@@ -59,8 +59,13 @@ namespace FutureWorkAPI.Controllers
             var existing = await _context.Careers.FindAsync(id);
             if (existing == null) return NotFound();
 
-            _context.Entry(updated).State = EntityState.Modified;
+            existing.Title = updated.Title;
+            existing.Description = updated.Description;
+            existing.SkillLevel = updated.SkillLevel;
+            existing.Category = updated.Category;
+
             await _context.SaveChangesAsync();
+
             return NoContent();
         }
 

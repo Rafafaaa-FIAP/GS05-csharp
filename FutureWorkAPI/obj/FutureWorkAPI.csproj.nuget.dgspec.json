@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\FutureWorkAPI.csproj": {}
+    "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\FutureWorkAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\FutureWorkAPI.csproj": {
+    "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\FutureWorkAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\FutureWorkAPI.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\FutureWorkAPI.csproj",
         "projectName": "FutureWorkAPI",
-        "projectPath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\FutureWorkAPI.csproj",
+        "projectPath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\FutureWorkAPI.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\obj\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+lWq7tcdYI=",
+  "dgSpecHash": "wq33lxVQSqQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\c#\\FutureWorkAPI\\FutureWorkAPI.csproj",
+  "projectFilePath": "C:\\Users\\crist\\Desktop\\FIAP 2\\GS 1\\GS05-csharp\\FutureWorkAPI\\FutureWorkAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
