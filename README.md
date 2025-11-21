@@ -54,6 +54,10 @@ A API possui: - Um **CareerController** - Um modelo **Career** com:\
 -   SQL Server
 -   Swagger
 
+## Vídeo Demonstrativo
+
+Para acessar um vídeo demonstrando o funcionamento da API clique [aqui](https://www.youtube.com/watch?v=dSyj656lDfU).
+
 ------------------------------------------------------------------------
 
 ## 📚 Objetivo Acadêmico
