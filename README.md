@@ -20,6 +20,8 @@ para estudos, integração com dashboards ou protótipos acadêmicos.
 -   Atualizar carreira
 -   Excluir carreira
 
+<img src="https://github.com/Rafafaaa-FIAP/GS05-csharp/blob/main/diagrama.png" alt="diagram" width="500" />
+
 ## 🛠️ Estrutura da API
 
 A API possui: - Um **CareerController** - Um modelo **Career** com:\
