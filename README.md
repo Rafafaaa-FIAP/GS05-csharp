@@ -14,36 +14,45 @@ para estudos, integração com dashboards ou protótipos acadêmicos.
 
 ## 🚀 Funcionalidades
 
--   Criar carreiras\
--   Listar carreiras\
--   Consultar carreira por ID\
--   Atualizar carreira\
+-   Criar carreiras
+-   Listar carreiras
+-   Consultar carreira por ID
+-   Atualizar carreira
 -   Excluir carreira
+
+<img src="https://github.com/Rafafaaa-FIAP/GS05-csharp/blob/main/diagrama.png" alt="diagram" width="500" />
 
 ## 🛠️ Estrutura da API
 
 A API possui: - Um **CareerController** - Um modelo **Career** com:\
-- Id (int)\
-- Nome (string)\
+- Id (int)
+- Nome (string)
 - Descricao (string)
 
 ## ▶️ Como Executar
 
-1.  Instale o SDK .NET 8+
+1. Instale o SDK .NET 8+
 
-2.  No terminal, dentro da pasta do projeto, execute:
+2. No banco de dados rode o arquivo scripts.sql
+
+3. No terminal, dentro da pasta do projeto, execute:
 
         dotnet run
 
-3.  A API será iniciada em:
+4. A API será iniciada em:
 
         https://localhost:7053
 
+5. o Swagger será iniciado em:
+
+        http://localhost:5197/swagger
+
 ## 📦 Tecnologias Utilizadas
 
--   ASP.NET Core Web API\
--   C#\
--   SQL Server (ou InMemory, dependendo da versão do projeto)
+-   ASP.NET Core Web API
+-   C#
+-   SQL Server
+-   Swagger
 
 ------------------------------------------------------------------------
 
@@ -52,3 +61,8 @@ A API possui: - Um **CareerController** - Um modelo **Career** com:\
 Este projeto foi desenvolvido para fins educacionais, auxiliando na
 compreensão de: - Criação de APIs REST - Modelagem simples de domínio -
 Estruturação de controllers e endpoints
+
+## 🧑‍💻 Integrantes
+* RM553377 - Enzo Rodrigues
+* RM553266 - Hugo Santos
+* RM553521 - Rafael Cristofali
